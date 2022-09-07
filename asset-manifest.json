@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plusenergy-webapp/static/css/main.7fcdf2b7.css",
+    "main.js": "/plusenergy-webapp/static/js/main.551e1b51.js",
+    "index.html": "/plusenergy-webapp/index.html",
+    "main.7fcdf2b7.css.map": "/plusenergy-webapp/static/css/main.7fcdf2b7.css.map",
+    "main.551e1b51.js.map": "/plusenergy-webapp/static/js/main.551e1b51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fcdf2b7.css",
+    "static/js/main.551e1b51.js"
+  ]
+}
