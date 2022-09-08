@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/plusenergy-webapp/static/css/main.7fcdf2b7.css",
-    "main.js": "/plusenergy-webapp/static/js/main.551e1b51.js",
+    "main.css": "/plusenergy-webapp/static/css/main.2de861e5.css",
+    "main.js": "/plusenergy-webapp/static/js/main.07854767.js",
     "index.html": "/plusenergy-webapp/index.html",
-    "main.7fcdf2b7.css.map": "/plusenergy-webapp/static/css/main.7fcdf2b7.css.map",
-    "main.551e1b51.js.map": "/plusenergy-webapp/static/js/main.551e1b51.js.map"
+    "main.2de861e5.css.map": "/plusenergy-webapp/static/css/main.2de861e5.css.map",
+    "main.07854767.js.map": "/plusenergy-webapp/static/js/main.07854767.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fcdf2b7.css",
-    "static/js/main.551e1b51.js"
+    "static/css/main.2de861e5.css",
+    "static/js/main.07854767.js"
   ]
 }
